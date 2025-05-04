@@ -4,7 +4,7 @@ body {
 ul:hover{
     margin: 50px;
     transition: all 2s linear ;
-    transform: scale(2) translateX(200px) ;
+    transform: scale(2) translateX(500px) ;
    
 }
 main img{
