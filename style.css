@@ -1,0 +1,24 @@
+body {
+    font-family: sans-serif;
+}
+ul:hover{
+    margin: 50px;
+    transition: all 2s linear ;
+    transform: scale(2) translateX(200px) ;
+   
+}
+main img{
+ opacity: 0.2;
+    width:150px ;
+    height:75px;
+}
+main img:hover{
+    border: 6px solid navy;
+    opacity: 1;
+    width:300px ;
+    height:150px;
+  transition: all 3s ease-out ;
+}
+header{
+    background-image:linear-gradient(to right, #8D41D6, #64AAD0,#8D41D6);
+}
