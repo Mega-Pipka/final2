@@ -1,7 +1,1 @@
-body {
-    font-family: sans-serif;
-}
-p:hover{
-    transform:scale(2) translateX(200px);
-    transition:all 1s linear ;
-}
+
